@@ -1,21 +1,21 @@
 {
-  "name": "musta-chioed",
+  "name": "btc-test",
   "version": "1.0.0",
-  "description": "mustata",
+  "description": "sun",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elit-i/musta-chioed.git"
+    "url": "git+https://github.com/surya1498/btc-test.git"
   },
   "author": "elit-i",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elit-i/musta-chioed/issues"
+    "url": "https://github.com/surya1498/btc-test/issues"
   },
-  "homepage": "https://github.com/elit-i/musta-chioed#readme",
+  "homepage": "https://github.com/surya1498/btc-test#readme",
   "dependencies": {
     "asoakedacorn": "^1.0.0",
     "bitcoinjs-lib": "^6.1.5",
